@@ -1,0 +1,8 @@
+#page1 {
+    z-index: -1;
+    animation: pagemove 5s infinite;
+}
+@keyframes pagemove {
+    0% {transition: ;}
+    100% {display: block;}
+}
